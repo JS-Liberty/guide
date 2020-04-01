@@ -12,7 +12,8 @@
 - **[learn.javascript.ru](https://learn.javascript.ru)** - один из самых современных онлайн учебников по JavaScript на сегодня (ну уж какой есть, Кантору - респект однозначно).
 - **[MDN](http://developer.mozilla.org/ru/)** - также является популярным онлайн учебником, однако переведен не до конца.
 - **[You Don't Know JS](https://github.com/azat-io/you-dont-know-js-ru)** - Вы не знаете JavaScript (серия книг, перевод с английского, автором оригинала является Kyle Simpson).
-- **[JS: Правильный путь](http://jstherightway.org/ru-ru/)** - краткий справочник по лучшим практикам написания кода на JavaScript
+- **[JS: Правильный путь](http://jstherightway.org/ru-ru/)** - краткий справочник по лучшим практикам написания кода на JavaScript.
+- **[Тестовые задания](https://github.com/Hexlet/ru-test-assignments)** - тестовые для прокачки. 
 
 ## Англоязычные
 
